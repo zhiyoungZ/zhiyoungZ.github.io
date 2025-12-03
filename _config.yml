@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "个人学术主页"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "赵志阳"
 description              : &description "Undergraduate students of Central South University, researching in remote sensing and AI."   # Update this with a general description of your site, this is the default if not overridden by a page
