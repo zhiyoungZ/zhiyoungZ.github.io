@@ -26,7 +26,7 @@ author:
   avatar           : "zhao.jpg" # filename of avatar image placed in /images/ for the left-hand sidebar
   name             : "赵志阳"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student at Central South University.<br><br>Research Interests: **Remote Sensing**, **Artificial Intelligence**, **Image Processing**."
+  bio              : "Undergraduate Student at Central South University.<br>Research Interests: <b>Remote Sensing</b>, <b>Artificial Intelligence</b>, <b>Image Processing</b>."
   location         : "Changsha, China"
   employer         : "Central South University"
   uri              : # URL
@@ -223,13 +223,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
