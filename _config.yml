@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "个人学术主页"
 title_separator          : "-"
