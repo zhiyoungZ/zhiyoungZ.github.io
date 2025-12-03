@@ -13,7 +13,7 @@ title                    : "个人学术主页"
 title_separator          : "-"
 name                     : &name "赵志阳"
 description              : &description "Undergraduate students of Central South University, researching in remote sensing and AI."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://zhiyoungZ.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : #https://zhiyoungZ.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhiyoungZ/zhiyoungZ.github.io"
@@ -26,9 +26,7 @@ author:
   avatar           : "zhao.jpg" # filename of avatar image placed in /images/ for the left-hand sidebar
   name             : "赵志阳"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student at Central South University.  
-                    
-                    Research Interests: *Remote Sensing*, *Artificial Intelligence*, *Image Processing*."
+  bio              : "Undergraduate Student at Central South University.<br><br>Research Interests: **Remote Sensing**, **Artificial Intelligence**, **Image Processing**."
   location         : "Changsha, China"
   employer         : "Central South University"
   uri              : # URL
@@ -145,14 +143,15 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "/images/zhao.jpg" # Social media default site image
+og_description           : "Zhiyang Zhao's Personal Academic Website" # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Zhiyang Zhao # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - https://github.com/zhiyoungZ
 
 
 # Analytics
@@ -224,13 +223,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
