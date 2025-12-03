@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## About Me
 Hello! I am **Zhiyang Zhao (赵志阳)**.
 
