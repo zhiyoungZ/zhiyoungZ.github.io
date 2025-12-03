@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "赵志阳的个人学术主页"
+title                    : "个人学术主页"
 title_separator          : "-"
 name                     : &name "赵志阳"
 description              : &description "Undergraduate students of Central South University, researching in remote sensing and AI."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at Central South University.  
                     
-                    Research Interests: Remote Sensing, Artificial Intelligence, Image Processing."
+                    Research Interests: *Remote Sensing*, *Artificial Intelligence*, *Image Processing*."
   location         : "Changsha, China"
   employer         : "Central South University"
   uri              : # URL
@@ -37,13 +37,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
