@@ -21,6 +21,10 @@ My research interests include:
 
 ---
 
+👉 **[Check out my Research Projects](/research/)**
+
+---
+
 ## News
 *   **[Nov. 2025]** My website is online.
 *   **[Sep. 2025]** I was recommended for admission to **Harbin Institute of Technology (HIT)** for a Master's degree!
@@ -34,7 +38,7 @@ My research interests include:
 
 ---
 
-## Honors & Awards
+<!--## Honors & Awards
 
 ### Competitions
 *   **2025:** **National Grand Prize**, Surveying Skills Competition Airborne Lidar Virtual Simulation Competition.
@@ -43,4 +47,4 @@ My research interests include:
 
 ### Scholarships
 *   **2023 - 2025:** **Merit Student** of Central South University (Awarded for **3 consecutive years**).
-*   **2023 - 2025:** **Second Class Academic Scholarship**, Central South University (Awarded for **3 consecutive years**).
+*   **2023 - 2025:** **Second Class Academic Scholarship**, Central South University (Awarded for **3 consecutive years**).-->

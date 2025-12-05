@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<div style = "text-align: center;">
+  <a href = "/files/cv.pdf" class = "btn btn--primary btn--large">📄 Download Full CV (PDF)</a>
+</div>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<br>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*   **M.S. in Electronics and Information Engineering** <br>
+    [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), 2025 - Present (Incoming).
+*   **B.E. in Remote Sensing Science and Technology** <br>
+    [Central South University (CSU)](https://www.csu.edu.cn/), 2021 - 2025.
+    *   **GPA:** 90.56/100 (3.7/4.0)
+    *   **Ranking:** **1/60** (Top 1.6%)
+    *   **Key Courses:** Probability & Statistics (100), Surveying Programming (98), Pattern Recognition & ML (95).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Skills
+
+*   **Programming:** C++, Python, MATLAB.
+*   **Software:** ArcGIS, ENVI, SouthMap, QGIS.
+*   **Languages:** Chinese (Native), English (CET-6: 462, CET-4: 550).
+
+---
+
+## Key Awards
+
+*   **National Grand Prize**, National Undergraduate Surveying Skills Competition (**Top 2%**).
+*   **National Second Prize**, Surveying and Mapping Technology Paper Competition.
+*   **Provincial First Prize**, Hunan Surveying Skills Competition.
+*   **National Endeavor Scholarship** (2022, 2023).
+*   **Merit Student of CSU** (2022, 2023).
